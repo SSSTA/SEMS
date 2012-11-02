@@ -1,0 +1,8 @@
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\bin\SEMS.dll
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\bin\SEMS.pdb
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\SEMS.dll
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\SEMS.pdb
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\SEMS.csproj.ResolveComReference.cache
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\bin\PagedList.dll
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\bin\PagedList.xml

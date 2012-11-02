@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="G:\Study\科协\120711科协暑期集训\__Project\SEMS\SEMS\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

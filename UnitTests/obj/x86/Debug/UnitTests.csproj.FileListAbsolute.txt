@@ -1,0 +1,12 @@
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\UnitTests.exe
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\UnitTests.pdb
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\SEMS.dll
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\SEMS.pdb
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\EntityFramework.xml
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\obj\x86\Debug\UnitTests.exe
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\obj\x86\Debug\UnitTests.pdb
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\EntityFramework.dll
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\UnitTests.exe.config
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\PagedList.dll
+G:\Study\科协\120711科协暑期集训\__Project\SEMS\UnitTests\bin\Debug\PagedList.xml

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/SEMS_deploy" />
+  <setParameter name="SEMSDBContext-Web.config Connection String" value="server=localhost;database=SEMSDB;User Id=root;Pwd=admin;Persist Security Info=True" />
+</parameters>

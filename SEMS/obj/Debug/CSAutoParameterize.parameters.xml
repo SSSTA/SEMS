@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SEMSDBContext-Web.config Connection String" description="SEMSDBContext 应用程序在 web.config 中用来访问数据库的连接字符串。" defaultvalue="server=localhost;database=SEMSDB;User Id=root;Pwd=admin;Persist Security Info=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Study\\科协\\120711科协暑期集训\\__Project\\SEMS\\SEMS\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SEMSDBContext']/@connectionString" />
+  </parameter>
+</parameters>
